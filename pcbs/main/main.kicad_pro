@@ -324,6 +324,10 @@
     [
       "c9bcbb20-bce5-48eb-aaa8-469331798139",
       "audio"
+    ],
+    [
+      "6138901c-6be1-47ed-922a-78f5db6a7917",
+      "infrared LEDs"
     ]
   ],
   "text_variables": {}
