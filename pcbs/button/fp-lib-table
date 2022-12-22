@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "touchpads")(type "KiCad")(uri "${KIPRJMOD}/touchpads.pretty")(options "")(descr ""))
+  (lib (name "APA102-flipped")(type "KiCad")(uri "${KIPRJMOD}/APA102-flipped.pretty")(options "")(descr ""))
+)
