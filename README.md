@@ -18,6 +18,8 @@ These features have not yet been implemented, and as such implementation details
 
 ## Hardware Design
 
+The schematics and PCBs can be found in the [pcbs](pcbs/) directory. Hardware design is done with [KiCAD EDA](https://www.kicad.org/).
+
 ### General background
 
 The doorbell is powered by a Pi Zero W, with power and all connections being provided over its 40-pin GPIO header. A Pi NoIR camera, combined with several IR LEDs, provides the video feed and night vision capabilities. Audio input and output is handled by a I<sup>2</sup>S ADC and DAC respectively.
