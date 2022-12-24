@@ -14,7 +14,6 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 50ce540e-d709-410a-8029-de1b53292191)
   )
-  (fp_rect (start -17.78 -17.78) (end 17.78 17.78) (layer "F.SilkS") (width 0.12) (fill none) (tstamp b7c7c777-0141-494d-9c51-ca2773cc5a01))
   (fp_circle (center 0 0) (end 5.08 -2.54) (layer "F.SilkS") (width 0.12) (fill none) (tstamp 2d6448f0-d14a-4f76-b27a-e8ea21b59c62))
   (fp_circle (center 0 0) (end 2.839806 0) (layer "F.SilkS") (width 0.12) (fill solid) (tstamp 64ee9f12-6eee-4823-af34-9ddd9c70f85a))
   (fp_circle (center 0 0) (end 10.16 -3.81) (layer "F.SilkS") (width 0.12) (fill none) (tstamp 7716140d-4653-4724-be7e-9768e451665b))
