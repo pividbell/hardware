@@ -24,13 +24,15 @@ The schematics and PCBs can be found in the [pcbs](pcbs/) directory. Hardware de
 
 The doorbell is powered by a Pi Zero W, with power and all connections being provided over its 40-pin GPIO header. A Pi NoIR camera, combined with several IR LEDs, provides the video feed and night vision capabilities. Audio input and output is handled by a I<sup>2</sup>S ADC and DAC respectively.
 
+**Warning:** 'Dumb' doorbells in the UK and US are commonly powered by AC voltage - **this doorbell will not work correctly on AC - it requires a 12V DC input.**
+
 
 ### Button
 
 This doorbell uses a capactive button, rather than a physical one. This has a few benefits, including:
 
 * Capacitive button tends to be cheaper than a water resistant pushbutton
-* Fewer points of ingress
+* Fewer points of water ingress
 * Theoretically, better longevity - though most water resistant pushbuttons are also rated for very high number of cycles, so this is not as important
 
 Once the doorbell prototype has been fabricated and assembled, the possibility of a contactless doorbell (ie, configuring the capacitive controller to be more sensitive to trigger if approached to within a centimetre or two) will also be investigated. This could reduce fingerprints and reduce cleaning requirements.
