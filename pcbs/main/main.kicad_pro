@@ -328,6 +328,10 @@
     [
       "6138901c-6be1-47ed-922a-78f5db6a7917",
       "infrared LEDs"
+    ],
+    [
+      "6abb8d2c-7988-461f-ae0c-218c4406da05",
+      "Door Release"
     ]
   ],
   "text_variables": {}
